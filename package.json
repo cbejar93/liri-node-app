@@ -1,0 +1,26 @@
+{
+  "name": "mygreatproject",
+  "version": "1.0.0",
+  "description": "to get twitter and spotify stuff ",
+  "main": "keys.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbejar93/liri-node-app.git"
+  },
+  "author": "carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbejar93/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/cbejar93/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.85.0",
+    "save": "^2.3.2",
+    "twitter": "^1.7.1"
+  }
+}
